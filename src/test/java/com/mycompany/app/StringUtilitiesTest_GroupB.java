@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class StringUtilitiesTest_GroupB {
 
-  @Test
+@Test
 public void test01() {
   String input = "A Nut for A JaR of tuna";
   boolean output = StringUtilities.isPalindrome(input);
@@ -38,6 +38,7 @@ public void test03() {
     processed_toggle
   );
 }
+
 @Test
 public void test04() {
   String input = "z2a";
