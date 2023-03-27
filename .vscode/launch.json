@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringUtilities",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.StringUtilities",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
