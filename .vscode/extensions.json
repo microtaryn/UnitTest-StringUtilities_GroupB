@@ -1,0 +1,12 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-maven",
+        "redhat.java",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug"
+	]
+}
